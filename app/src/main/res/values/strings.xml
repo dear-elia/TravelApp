@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyTravelApp</string>
+    <string name="guideoption">Guide</string>
+    <string name="NoGuideOption">NoGuide</string>
+    <string name="wifiOption">WiFi</string>
+    <string name="noWifiOption">No WiFi</string>
+    <string name="twobed">2 bed</string>
+    <string name="description">Jeju Family Garden Village</string>
+</resources>
